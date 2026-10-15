@@ -113,7 +113,4 @@ If you would like to contribute to **ResumeCraft**, please follow these steps:
 6. **Create a Pull Request**
 
 ## Please give a star ⭐ to the repository if you like it.
-
-## Contact
-
-For any questions or feedback, please reach to me directly  [Abhishek Rajpoot](https://github.com/exclusiveabhi).
+ 
